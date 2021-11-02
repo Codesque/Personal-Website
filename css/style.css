@@ -1,0 +1,129 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    font-family: 'Merienda One', cursive;  font-size: 2.7rem; color: #ffa500;
+}
+.topside
+{
+    position: relative;  bottom: 5rem;  margin-bottom: 0;  padding-top: 0; background-color: #40e0d0;
+}
+.tophoto
+{
+    display: inline-block;  height: 15rem;  margin: 3rem 5rem 10rem 5rem  ;
+}
+.contact
+{ position: fixed;  top: 42rem; display: block;  margin-top: 12rem;
+    margin-left: 130rem;
+}
+.sun
+{ position: absolute;  top: 20rem;  right: 20rem;
+
+    display: inline-block;
+}
+
+.topmanuscript
+{ position: absolute;  top: 6rem;  right: 50rem;
+
+    display: inline-block;
+}
+.dott
+{ width: 4rem;  height: 5rem;  border-width: 1rem;
+    border-style: dotted none none;  border-color: #ffa500;
+}
+
+.title
+{
+    line-height: 5rem;
+}
+.skipo
+{
+    width: 1rem;
+}
+
+
+
+.skill-row
+{ font-family: 'Kanit', sans-serif; font-size: 2rem;  line-height: 2;
+
+    width: 100rem;  height: 30rem;  margin: 100px auto;  text-align: left;
+}
+.img
+{
+    width: 22rem;
+}
+.alright
+{
+    float: left;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+.school
+{
+    float: right;
+}
+.abil
+{
+    float: left;
+}
+
+.table
+{
+    margin-left: 50rem;
+}
+th
+{
+    height: 20rem;
+}
+.hap
+{
+    float: right;
+}
+.list
+{
+    margin-left: 25rem;
+}
+.middleside
+{
+    background-color: #ffefd5;
+}
+
+.hellomanu {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.skipo1 {
+  width: 4rem;
+}
+.forum {
+  width: 20rem;
+  height:75rem;
+background-color: #20b2aa;
+display: inline-block;
+position: relative;
+right: 50rem;
+bottom: 22.5rem;
+}
+.top-con {
+width:25rem;
+height:25rem;
+  display: inline-block;
+  position: relative;
+  left: 20rem;
+  bottom: 10rem;
+}
+.giphy-embed{
+display: inline-block;
+position: relative;
+top:29rem;
+right: 25rem;
+
+}
+.box{
+display: inline-block;
+  position: absolute;
+left:5rem;
+right: 10rem;
+}
