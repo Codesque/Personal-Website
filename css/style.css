@@ -18,8 +18,8 @@ h1
 }
 .contact
 { position: fixed;  top: 42rem;
- display: block;  margin-top: 12rem;
-    margin-left: 130rem;
+ display: block;
+    margin-left: 100rem;
 }
 .sun
 { position: absolute;  top: 20rem;  right: 20rem;
